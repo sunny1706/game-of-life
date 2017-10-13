@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 FROM selenium/standalone-firefox:latest
 
 ENV MAVEN_VERSION 3.3.3
